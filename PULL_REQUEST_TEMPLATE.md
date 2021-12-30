@@ -20,4 +20,4 @@ You can see my fix [on this line](#line-number-1235234) for where the new data e
 - Does this introduce opinionated data formatting or manual data entry? **[Yes/No]**
 - Does this pr include updated data files in a separate commit that can be reverted for a clean code-only pr? **[Yes/No]**
 - Have I run the linter? **[Yes/No]**
-- Is is a bug fix, feature request, or enhancement? **[Bug Fix/Feature/Enhancement]**
+- Is is a bug fix, feature request, or enhancement? **[Bug Fix/Feature/Enhancement/Docs/Maintenance]**
